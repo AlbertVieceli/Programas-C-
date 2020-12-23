@@ -1,0 +1,4 @@
+/home/albert/Documentos/Programas em geral/Programas C#/Aula40/obj/Debug/netcoreapp3.1/Aula40.csprojAssemblyReference.cache
+/home/albert/Documentos/Programas em geral/Programas C#/Aula40/obj/Debug/netcoreapp3.1/Aula40.AssemblyInfoInputs.cache
+/home/albert/Documentos/Programas em geral/Programas C#/Aula40/obj/Debug/netcoreapp3.1/Aula40.AssemblyInfo.cs
+/home/albert/Documentos/Programas em geral/Programas C#/Aula40/obj/Debug/netcoreapp3.1/Aula40.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+(COMANDOS PARA C# NO VSCODE)
+
+mkdir Nome(para fazer o diretorio)
+
+cd (nome do diretorio)
+dotnet new console
+
+(apaga o cs que gerar)
+rm Program.cs
+(cria o novo cs)
+touch nome.cs
+
+dotnet build(opcional)
+dotnet run
+cd .. (para voltar um diretorio)
