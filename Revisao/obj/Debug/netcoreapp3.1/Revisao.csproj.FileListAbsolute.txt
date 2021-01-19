@@ -1,0 +1,4 @@
+/home/albert/Documentos/Programas em geral/Programas C#/Revisao/obj/Debug/netcoreapp3.1/Revisao.csprojAssemblyReference.cache
+/home/albert/Documentos/Programas em geral/Programas C#/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfoInputs.cache
+/home/albert/Documentos/Programas em geral/Programas C#/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfo.cs
+/home/albert/Documentos/Programas em geral/Programas C#/Revisao/obj/Debug/netcoreapp3.1/Revisao.csproj.CoreCompileInputs.cache
