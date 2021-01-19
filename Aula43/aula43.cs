@@ -2,6 +2,7 @@ using System;
 //INTERFACES
 
 public interface Veiculo{ //para implementar em outras classes
+// NÃO PODE CONTER ATRIBUTOS NEM CONSTRUTORES
 void ligar();
 void desligar();
 void info();

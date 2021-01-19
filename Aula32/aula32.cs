@@ -1,6 +1,6 @@
 using System;
 //USANDO THIS
-class Calculos{
+public class Calculos{
     public int v1;
     public int v2;
 
@@ -11,6 +11,7 @@ class Calculos{
     public Calculos(int v1,int v2){
         this.v1=v1;
         this.v2=v2;
+        Console.WriteLine("v1={0} e v2={1}",v1,v2);
     }
 }
 

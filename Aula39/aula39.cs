@@ -29,8 +29,9 @@ class Carro:Veiculo{
 class Aula39{
     static void Main(){
         Carro carro1 = new Carro();
+        
         carro1.aceleracao(1);
-        carro1.aceleracao(-1);
+        //carro1.aceleracao(-1);
         Console.WriteLine(carro1.getVelAtual());
     }
 }
