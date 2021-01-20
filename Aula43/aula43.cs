@@ -1,18 +1,18 @@
 using System;
 //INTERFACES
 
-public interface Veiculo{ //para implementar em outras classes
+public interface IVeiculo{ //para implementar em outras classes
 // NÃO PODE CONTER ATRIBUTOS NEM CONSTRUTORES
 void ligar();
 void desligar();
 void info();
 }
 
-public interface Combate{
+public interface ICombate{
 void disparar();
 }
 
-class Carro:Veiculo,Combate{ //tem que implementar tudo da interface
+class Carro:IVeiculo,ICombate{ //tem que implementar tudo da interface
     public bool ligado;
     private int municao;
     public Carro(){
@@ -20,6 +20,7 @@ class Carro:Veiculo,Combate{ //tem que implementar tudo da interface
     }
     public void setMunicao(int qtde){
         this.municao=qtde;
+        Console.WriteLine("Munição total = {0}",this.municao);
     }
     public void ligar(){
         this.ligado=true;
