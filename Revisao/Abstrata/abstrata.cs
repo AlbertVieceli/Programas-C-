@@ -9,7 +9,7 @@ public class A{
 
 public abstract class B:A{
     public abstract override void Trampar();
-
+    public static int i=10;
     private int _horas;
     public int horas{
         get{return _horas;}
