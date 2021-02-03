@@ -24,7 +24,7 @@ namespace Teste
             Console.WriteLine("constructor de B");
         }
 
-        public override int Abismo(){
+        public sealed override int Abismo(){
             return x;
         }
     }
@@ -34,7 +34,8 @@ namespace Teste
         {
             A a = new A();
             B b = new B();
-
+            
+            Console.WriteLine($"valor de x é: {a.Abismo()}");
             Console.WriteLine($"valor de x é: {b.Abismo()}");
         }
     }
